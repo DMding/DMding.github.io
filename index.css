@@ -2,6 +2,10 @@
     margin: 0;
     padding: 0;
 }
+body {
+    margin: 0;
+    padding: 0;
+}
 .index-container {
     background-image: url('./app/images/IMG_2306.jpg');
     background-size: 100% 100%;
